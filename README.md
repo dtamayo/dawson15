@@ -1,4 +1,4 @@
-This is the Eh set of 500 simulations from Dawson et al 2015 (correlations of giant impacts...)
+This is the Eh set of 500 simulations from Dawson et al 2016 (correlations of giant impacts...)
 
 Have to recompile element6.for to set up linker paths etc correctly.
 Moved all files needed to compile into data/ (mercury.inc swift.inc)
